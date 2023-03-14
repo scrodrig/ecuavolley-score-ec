@@ -2,6 +2,10 @@
 
 }
 
+.yellow-text{
+  color: yellow;
+}
+
 
 html {
   background: -webkit-linear-gradient(90deg, #485563 10%, #29323c 90%);
